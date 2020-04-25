@@ -56,6 +56,18 @@ Container name must be unique
 `docker container rm` - removes a container
 `docker container rm -f` - remove container even if it is running (stops it first)
 
+Lesson 20
+When running `docker container run`:
+1. Looks in local cache for an image
+2. Looks in remove repository (defaults to docker hub)
+3. Downloads an image in found and stores it in local cache
+4. Creates a new container of that image (starts a new layer of changes on top)
+5. Give a virtual IP on private network in docker
+6. Opens a port if specified
+7. Start using a command specified (like entrypoint?)
+
+
+
 
 
 
