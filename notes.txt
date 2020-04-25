@@ -12,3 +12,17 @@ Docker Windows 7,8, 10 Home setup
 
 Lesson 13
 Docker Mac
+Don't use homebrew to install docker 
+Checkout terminal completion for docker.
+
+Lesson 14
+Docker Linux
+Better to install by following instructions from docker website.
+Don't use pre-install setups (install docker manually)
+Don't use 'apt' to install docker, it might be too old version
+`get.docker.com` - script to install docker
+adding yourself to a docker group (remove sudo for every command) can be potential security issue.
+docker-machine - needs to be installed manually
+docker-compose - need to be installed manually
+
+
