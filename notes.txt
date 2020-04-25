@@ -34,5 +34,8 @@ Lesson 16
 Lesson 17
 - - - 
 
+Lesson 18
+`docker version` - Display info about client and server versions (check client/server status)
+`docker info` - Display system-wide information
 
 
