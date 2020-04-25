@@ -26,7 +26,10 @@ docker-machine - needs to be installed manually
 docker-compose - need to be installed manually
 
 Lesson 15
-`docker version` - Display info about client and server versions (check client/server status)
-`docker info` - Display system-wide information
+- - - 
+
+Lesson 16
+- - - 
+
 
 
