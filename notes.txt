@@ -38,4 +38,25 @@ Lesson 18
 `docker version` - Display info about client and server versions (check client/server status)
 `docker info` - Display system-wide information
 
+Lesson 19
+Image - binaries and libs and source code that makes up an application
+Container - running instance of am image
+Registry is like github for docker
+`docker container run --publish` `-p` - set port
+`docker container run --detach` `-d` - run in a background
+`docker ls` - see list of containers
+`docker ls -a` - see list of containers including stopped
+`docker stop` - stop a container by id
+Container name must be unique
+`docker container run --name` - give container a name
+`docker logs` - see logs of a container
+`docker logs -f` - tail logs
+`docker container top` - list of processes in the container
+`docker stats` - Display a live stream of container(s) resource usage statistics
+`docker container rm` - removes a container
+`docker container rm -f` - remove container even if it is running (stops it first)
+
+
+
+
 
