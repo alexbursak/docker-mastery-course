@@ -6,3 +6,6 @@ Docker options for Windows
 
 Lesson 11
 Docker Windows setup
+
+Lesson 12
+Docker Windows 7,8, 10 Home setup
