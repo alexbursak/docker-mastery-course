@@ -66,6 +66,14 @@ When running `docker container run`:
 6. Opens a port if specified
 7. Start using a command specified (like entrypoint?)
 
+Lesson 21
+Containers are not mini virtual machines. They are restricted processes.
+* They are processes
+* Limited to what resources they can access
+* Exit when process stops
+
+
+
 
 
 
