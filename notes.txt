@@ -122,6 +122,10 @@ docker compose makes it easier in 'bridged' network too
 Lesson 31
 Assigment
 
+Lesson 32
+Assigment
+--rm - cleans up a container after exiting
+
 
 
 
