@@ -94,7 +94,14 @@ docker container -ai - similar at '-it' but for start command
 -i, --interactive          Keep STDIN open even if not attached (allows connection running)
 -t, --tty                  Allocate a pseudo-TTY ("fake" terminal)
 
-
+Lesson 27
+docker container port - quick ports check
+every container connect to bridge network by default
+each of those networks routes out through NAT firewall (docker deamon) so your container can talk to
+the internet
+container can talk to each other inside same network without opening any extra ports
+'--net=host' - skip virtual networks and use host IP
+docker container inspect --format - filter output format eg. {{ .NetworkSetting.IPAddress }}
 
 
 
