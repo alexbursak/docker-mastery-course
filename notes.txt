@@ -104,5 +104,8 @@ container can talk to each other inside same network without opening any extra p
 docker container inspect --format - filter output format eg. {{ .NetworkSetting.IPAddress }}
 
 
+Lesson 28
+- - - 
+
 
 
