@@ -126,6 +126,10 @@ Lesson 32
 Assigment
 --rm - cleans up a container after exiting
 
+Lesson 33
+- - -
+
+
 
 
 
