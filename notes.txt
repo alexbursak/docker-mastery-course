@@ -72,6 +72,10 @@ Containers are not mini virtual machines. They are restricted processes.
 * Limited to what resources they can access
 * Exit when process stops
 
+Lesson 22
+- - -
+
+
 
 
 
