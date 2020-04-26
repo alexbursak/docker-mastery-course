@@ -119,6 +119,8 @@ Docker uses container names as host names (only for custom networks)
 default 'bridged' network does not have DNS by default
 docker compose makes it easier in 'bridged' network too
 
+Lesson 31
+Assigment
 
 
 
