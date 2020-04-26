@@ -113,6 +113,11 @@ docker network create --driver
 docker network connect - attach a network to a container
 docker network disconnect - detach a network from a container
 
+Lesson 30
+DNS
+Docker uses container names as host names (only for custom networks)
+default 'bridged' network does not have DNS by default
+docker compose makes it easier in 'bridged' network too
 
 
 
