@@ -87,7 +87,12 @@ docker container top - process list in one container
 docker container inspect - details of one container config
 docker container stats - performance stats for all containers
 
-
+Lesson 26
+docker container run -it - start a new container interactively
+docker container exec -it - run addition command in existing container
+docker container -ai - similar at '-it' but for start command
+-i, --interactive          Keep STDIN open even if not attached (allows connection running)
+-t, --tty                  Allocate a pseudo-TTY ("fake" terminal)
 
 
 
