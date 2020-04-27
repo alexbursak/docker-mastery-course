@@ -129,6 +129,16 @@ Assigment
 Lesson 33
 - - -
 
+Lesson 34
+DNS Round Robin Test - make sure that multiple servers (containers) can respond for the same dns name
+(poor man load balancer lol)
+--network-alias or --net-alias to assign an alias to a container
+--net= to assign to a network on container startup
+
+
+
+
+
 
 
 
