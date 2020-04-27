@@ -144,6 +144,10 @@ Lesson 36
 Lesson 37
 Dockerhub
 
+Lesson 38
+docker image history - history about an image layers
+docker image inspect - meta data
+
 
 
 
