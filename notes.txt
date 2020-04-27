@@ -135,6 +135,8 @@ DNS Round Robin Test - make sure that multiple servers (containers) can respond 
 --network-alias or --net-alias to assign an alias to a container
 --net= to assign to a network on container startup
 
+Lesson 35
+- - -
 
 
 
