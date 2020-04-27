@@ -143,11 +143,21 @@ Lesson 36
 
 Lesson 37
 Dockerhub
+docker image ls
+docker image push
+docker image pull
+docker rmi
 
 Lesson 38
 docker image history - history about an image layers
 docker image inspect - meta data
 
+Lesson 39
+Image tags
+docker image tag - create a new tag for an image
+docker login
+docker logout
+Docker login stores a token (potential security issie)
 
 
 
