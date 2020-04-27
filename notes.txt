@@ -138,6 +138,9 @@ DNS Round Robin Test - make sure that multiple servers (containers) can respond 
 Lesson 35
 - - -
 
+Lesson 36
+- - -
+
 
 
 
