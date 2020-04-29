@@ -168,10 +168,14 @@ All logs can be spit to /dev/stdout and /dev/stderr so docker can capture them
 EXPOSE - to open ports
 CMD - final command that runs every time new container run starts or every time restarts stopped container
 
-Lesson
+Lesson 41
 docker image build - to build an image using dockerfile
 keep things that changes the least in the beginning and things that changes the most in the end
 copy stuff at the end so it build faster
+
+Lesson 42
+COPY - to copy files over to a container
+WORKDIR - to change directory (same as RUN cd ...)
 
 
 
