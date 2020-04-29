@@ -194,8 +194,15 @@ docker system df - to see space usage
 docker network prune - to cleanup networks
 
 Lesson 46
-- - - 
+- - -
 
+Lesson
+Persistent data: Volumes
+Volume is a unique location on a host which is getting mounter to a container
+(in Mac and win it is in virtual machine)
+docker volume ls - see all volumes
+docker container run -v - to create or link a named volume eg. `mysql-db:/var/lib/mysql`
+docker volume create - to create a volume (can specify a driver)
 
 
 
