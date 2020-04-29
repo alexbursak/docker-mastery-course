@@ -248,6 +248,13 @@ Assignment (Drupal and Postgress)
 Named volumes needs to be defined in volumes section
 docker-compose down -v  - to remove volumes
 
+Lesson 59
+docker-compose build - to build
+(nginx proxy)
+build section can have reference to dockerfile
+docker-compose down rmi - removes images that was build during 'up'
+ 
+
 
 
 
