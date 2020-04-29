@@ -207,6 +207,12 @@ docker volume create - to create a volume (can specify a driver)
 Lesson 48
 $(pwd) - useful command to use in a command where directory unknown
 
+Lesson 49
+Persistent data: Bind mounting
+A mapping between host file directories in to container file directories
+Does not overwrite a data in container. If you run a container again without mounting you will see
+the data that was there before.
+
 
 
 
