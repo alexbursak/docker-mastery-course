@@ -243,7 +243,10 @@ docker-compose top      - list of processes
 Lesson 57
 Assignment (Drupal and Postgress)
 
-
+Lesson 58
+Assignment (Drupal and Postgress)
+Named volumes needs to be defined in volumes section
+docker-compose down -v  - to remove volumes
 
 
 
