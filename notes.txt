@@ -181,6 +181,12 @@ WORKDIR - to change directory (same as RUN cd ...)
 Lesson 43
 Assignment
 
+Lesson 44
+Assignment
+&& - chains commands. fails if any command fails
+; - dont care is first command failed and keeps executing next
+Final CSM command should have this syntax - CMD ["/sbin/tini", "--" ,"node", "./bin/www"]
+
 
 
 
