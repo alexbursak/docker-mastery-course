@@ -226,12 +226,22 @@ Lesson 53
 Assigment
 Jekyll - check it out! website generator
 
-Lesson 53
+Lesson 54
 - - -
 
-Lesson 54
+Lesson 55
 Docker Compose
 Configures relationship between containers
+
+Lesson 56
+docker-compose up (-d)  - start stuff
+docker-compose down     - stop stuff
+docker-compose logs     - logs
+docker-compose ps       - list of containers
+docker-compose top      - list of processes
+
+
+
 
 
 
