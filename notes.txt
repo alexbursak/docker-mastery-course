@@ -227,7 +227,12 @@ Assigment
 Jekyll - check it out! website generator
 
 Lesson 53
-- - - 
+- - -
+
+Lesson 54
+Docker Compose
+Configures relationship between containers
+
 
 
 
