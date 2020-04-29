@@ -159,6 +159,16 @@ docker login
 docker logout
 Docker login stores a token (potential security issie)
 
+Lesson 40
+-f can be provided for a file
+Dockerfile
+ENV - to set environment variables
+RUN - runs a command
+All logs can be spit to /dev/stdout and /dev/stderr so docker can capture them
+EXPOSE - to open ports
+CMD - final command that runs every time new container run starts or every time restarts stopped container
+
+
 
 
 
