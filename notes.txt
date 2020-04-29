@@ -187,7 +187,11 @@ Assignment
 ; - dont care is first command failed and keeps executing next
 Final CSM command should have this syntax - CMD ["/sbin/tini", "--" ,"node", "./bin/www"]
 
-
+Lesson 45
+docker image prune (-a) - to cleanup images
+docker system prune - to cleanup everything
+docker system df - to see space usage
+docker network prune - to cleanup networks
 
 
 
