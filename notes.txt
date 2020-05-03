@@ -264,6 +264,12 @@ docker always runs thnigs as root be default
 'chown -R www-data:www-data' - example of changing ownership of the files (it is okay to use it that way)
 
 
+Lesson 62
+Swarm Mode - server clustering solution
+Re-watch? (Intro)
+
+
+
 
 
 
