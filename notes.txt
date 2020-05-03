@@ -257,6 +257,12 @@ docker-compose down rmi - removes images that was build during 'up'
 Lesson 60
 Assignment
 
+Lesson 61
+'rm --rf /var/lib/apt/lists/*' - to cleanup after apt install
+git --branch --single-branch --depth - to only download latest copy and only one branch (saves time)
+docker always runs thnigs as root be default
+'chown -R www-data:www-data' - example of changing ownership of the files (it is okay to use it that way)
+
 
 
 
