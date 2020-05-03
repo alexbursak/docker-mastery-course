@@ -253,7 +253,10 @@ docker-compose build - to build
 (nginx proxy)
 build section can have reference to dockerfile
 docker-compose down rmi - removes images that was build during 'up'
- 
+
+Lesson 60
+Assignment
+
 
 
 
