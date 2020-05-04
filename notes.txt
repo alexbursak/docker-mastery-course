@@ -268,6 +268,17 @@ Lesson 62
 Swarm Mode - server clustering solution
 Re-watch? (Intro)
 
+Lesson 63
+docker swarm init - initialize docker swarm
+RAFT - protocol insures consistency
+can be only one leader at a time among managers
+docker node ls -
+docker swarm -
+docker service -
+docker service create -
+docker service ps
+docker service ls
+docker service update <service name> --replicas - to update to multiple containers
 
 
 
