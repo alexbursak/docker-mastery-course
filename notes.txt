@@ -305,6 +305,11 @@ Stateless load balancer (eg. does not saves session cookies)
 Layer 3(TCP), not Layer 4 (DNS)
 Nginx or HAProxy - can be used to make it stateful, Layer 4 load balancer.
 
+Lesson 69
+Assignment
+
+
+
 
 
 
