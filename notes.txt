@@ -327,6 +327,17 @@ Only stored on manager node
 In memory only for services that uses them. and looks like a regular file (but it is not)
 Swarm only thing
 
+Lesson 73
+Docker Secret
+docker secret create <name> <file>
+`echo "<secret>" | docker secret create <name> -` - without a file
+docker secrets ls
+docker secret inspect <name>
+/run/secrets/<name> - location of secrets
+docker service update --secret-rm (--secret-add) - to remove or add (recreates a container)
+
+
+
 
 
 
