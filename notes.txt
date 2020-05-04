@@ -280,6 +280,14 @@ docker service ps
 docker service ls
 docker service update <service name> --replicas - to update to multiple containers
 
+Lesson 64
+- - -
+
+Lesson 65
+- - -
+
+Lesson 66
+Docker swarm example
 
 
 
