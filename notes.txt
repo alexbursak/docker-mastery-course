@@ -321,6 +321,13 @@ uses compose file (at least version 3)
 Stacks has a visualiser - pretty cool little tool
 
 
+Lesson 72
+Secret Storage - secure solution to store secrets
+Only stored on manager node
+In memory only for services that uses them. and looks like a regular file (but it is not)
+Swarm only thing
+
+
 
 
 
