@@ -295,6 +295,16 @@ are on the vlan)
 IPSec (AES) encryption can be used in the network. It is off by default.
 Service can be added to one or more networks
 
+Lesson 68
+Routing Mesh - routes incoming packets for the Service to a proper task(containers)
+Load balancer
+Swarm puts VIP in front of each service. This is to ensure that the work in is correctly
+distributed across all tasks(containers). Inner and outer connections are going through VIP
+and not directly task to task.
+Stateless load balancer (eg. does not saves session cookies)
+Layer 3(TCP), not Layer 4 (DNS)
+Nginx or HAProxy - can be used to make it stateful, Layer 4 load balancer.
+
 
 
 
