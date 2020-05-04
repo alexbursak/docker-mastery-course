@@ -279,6 +279,7 @@ docker service create -
 docker service ps
 docker service ls
 docker service update <service name> --replicas - to update to multiple containers
+docker service logs
 
 Lesson 64
 - - -
@@ -304,10 +305,14 @@ and not directly task to task.
 Stateless load balancer (eg. does not saves session cookies)
 Layer 3(TCP), not Layer 4 (DNS)
 Nginx or HAProxy - can be used to make it stateful, Layer 4 load balancer.
+Not supported persistent connections (eg web sockets) !!! need to use proxy
 
 Lesson 69
 Assignment
 
+Lesson 70
+docker service volume is different to normal way of creating a volume
+--mount type=volume,source=db-data,target=/var/lib/postgress/data - example
 
 
 
