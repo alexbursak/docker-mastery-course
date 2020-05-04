@@ -314,6 +314,14 @@ Lesson 70
 docker service volume is different to normal way of creating a volume
 --mount type=volume,source=db-data,target=/var/lib/postgress/data - example
 
+Lesson 71
+Stacks - nodes, services, tasks, containers, networks and volumes (only one swarm)
+docker stack deploy -
+uses compose file (at least version 3)
+Stacks has a visualiser - pretty cool little tool
+
+
+
 
 
 
