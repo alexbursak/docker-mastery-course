@@ -336,6 +336,10 @@ docker secret inspect <name>
 /run/secrets/<name> - location of secrets
 docker service update --secret-rm (--secret-add) - to remove or add (recreates a container)
 
+Lesson 74
+Stack and Secrets (compose file must be at least 3.1)
+
+
 
 
 
