@@ -289,6 +289,13 @@ Lesson 65
 Lesson 66
 Docker swarm example
 
+Lesson 67
+Overlay multi-host networking - swarm-wide bridge network (containers can access each other like they
+are on the vlan)
+IPSec (AES) encryption can be used in the network. It is off by default.
+Service can be added to one or more networks
+
+
 
 
 
