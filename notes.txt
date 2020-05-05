@@ -349,6 +349,15 @@ Lesson 77
 Same compose file can be used for dev and prod (for secrets and not only)
 Secrets get mounted into container in dev and this is not secure (prod works different)
 
+Lesson 78
+Docker compose can be used for:
+    local
+    CI
+    prod
+docker-compose.override.yml - overrider a file 'docker-compose.yml' which can be used as base
+Docker-compose can accept (-f) multiple file (order matters, base must be first)
+docker-compose config - to combine files
+docker-compose extends - similar to config?
 
 
 
