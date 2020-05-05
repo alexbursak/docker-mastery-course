@@ -387,6 +387,11 @@ Docker registry
 Lesson 84
 local registry example
 
+Lesson 85
+Assignment
+
+
+
 
 
 
