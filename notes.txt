@@ -359,6 +359,10 @@ Docker-compose can accept (-f) multiple file (order matters, base must be first)
 docker-compose config - to combine files
 docker-compose extends - similar to config?
 
+Lesson 79
+docker service update - updates all one by one (blue/green)
+docker service scale <> -
+docker service rollback <> -
 
 
 
