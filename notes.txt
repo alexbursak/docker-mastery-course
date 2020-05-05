@@ -345,6 +345,12 @@ Assignment
 Lesson 76
 Assignment
 
+Lesson 77
+Same compose file can be used for dev and prod (for secrets and not only)
+Secrets get mounted into container in dev and this is not secure (prod works different)
+
+
+
 
 
 
