@@ -374,6 +374,8 @@ docker run --health-cmd="curl -f localhost || false" - and more --health-... opt
 php-fpm and nginx - has default health checks api
 can be used in compose file too
 
+Lesson 81
+- - - 
 
 
 
