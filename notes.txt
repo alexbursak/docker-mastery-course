@@ -375,7 +375,10 @@ php-fpm and nginx - has default health checks api
 can be used in compose file too
 
 Lesson 81
-- - - 
+- - -
+
+Lesson 82
+docker hub
 
 
 
