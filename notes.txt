@@ -364,6 +364,18 @@ docker service update - updates all one by one (blue/green)
 docker service scale <> -
 docker service rollback <> -
 
+Lesson 80
+Healthcheck - basic level of health
+executes inside a container (eg. curl localhost to do a basic check for web servcer)
+expects 0 (OK) or 1 (Error)
+starting/healthy/unhealthy
+docker run --health-cmd="curl -f localhost || false" - and more --health-... options (|| false important)
+|| false and exit 1 - same thing
+php-fpm and nginx - has default health checks api
+can be used in compose file too
+
+
+
 
 
 
