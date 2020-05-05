@@ -384,7 +384,8 @@ Lesson 83
 Docker registry
 --registry-mirror - enables local cache proxy images (offile dockerhub)
 
-
+Lesson 84
+local registry example
 
 
 
