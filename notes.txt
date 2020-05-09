@@ -445,7 +445,8 @@ K8s intro
 Lesson 96
 Intro to K8s - diagram, how it is diffirent to swarm
 
-
+Lesson 97
+K8s - Hungry on resources  
 
 
 
