@@ -457,6 +457,9 @@ Controller: create/update pods
 Service: network endpoint to connect to a pod. (persistent endpoint for pod in a cluster)
 Namespace: filter group of objects in cluster
 
+Lesson 100
+- - -
+
 
 
 
