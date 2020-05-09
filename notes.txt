@@ -394,9 +394,53 @@ Lesson 86
 Private docker registry searvice with swarm example
 /v2/_catalog - to see registeries
 
-
 Lesson 87
-- - - 
+- - -
+
+Lesson 88
+Good talk about docker.
+
+Lesson 89
+Talk about Swarm future
+will swarm survive in long term?
+
+Lesson 90
+Talk about swarm and some examples
+
+Lesson 91
+Into Kubernetes
+
+Lesson 92
+What is Kubernetes
+Created by Google
+Can run other container runtimes like containerD
+Has many vendors (distributions)
+
+Lesson 93
+Why kubernetes
+If apps changing often = consider orchestration
+Use vendor product instead of neat kubernetes solution
+
+Lesson 94
+Kubernetes vs swarm
+Swarm:
+    Comes with docker
+    Swarm is easier to deploy and manage
+    Kinda 80/20 - 20& features of K8s that solves 80% of requirements
+    RUns anywhere: ARM, Win, 32 & 64 bit, local, cloud, datacenter
+    Secure by default: TLS, encrypts db and etc.
+    Easier to troubleshoot
+    Good to small teams and small projects
+Kubernetes:
+    Clouds will deploy/manage Kubernetes
+    Widest adoption and community
+    Flexible: covers wider set of use cases
+    Vendor support K8s
+    "No one ever got fired for buying IBM" - trusted, popular thing
+    Trendy
+
+Lesson 95
+K8s intro
 
 
 
