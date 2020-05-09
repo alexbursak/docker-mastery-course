@@ -460,6 +460,8 @@ Namespace: filter group of objects in cluster
 Lesson 100
 - - -
 
+Lesson 101
+Example of running a pod
 
 
 
