@@ -446,7 +446,18 @@ Lesson 96
 Intro to K8s - diagram, how it is diffirent to swarm
 
 Lesson 97
-K8s - Hungry on resources  
+K8s - Hungry on resources
+
+Lesson 98
+read
+
+Lesson 99
+Pod: one or more containers runnit together
+Controller: create/update pods
+Service: network endpoint to connect to a pod. (persistent endpoint for pod in a cluster)
+Namespace: filter group of objects in cluster
+
+
 
 
 
