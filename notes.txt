@@ -442,6 +442,10 @@ Kubernetes:
 Lesson 95
 K8s intro
 
+Lesson 96
+Intro to K8s - diagram, how it is diffirent to swarm
+
+
 
 
 
