@@ -466,7 +466,11 @@ Example of running a pod
 Lesson 102
 Must read
 
-
+Lesson 103
+kubectl - mail kubernetes command
+kubectl run - similar to docker run
+kubectl scale - to increase number of replicas
+kubectl get all - see all containers (including management) in k8s
 
 
 
