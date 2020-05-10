@@ -472,6 +472,14 @@ kubectl run - similar to docker run
 kubectl scale - to increase number of replicas
 kubectl get all - see all containers (including management) in k8s
 
+Lesson 104
+kubectl get pods - see all pods(containers?)..
+kubectl logs - to see logs
+kubectl logs -l - to specify a label
+kubectl describe pod/<pod name> - info about pod
+kubectl get pogs -w - like watch command
+kubrctl delete pod/<podname> - removed a pod
+
 
 
 
