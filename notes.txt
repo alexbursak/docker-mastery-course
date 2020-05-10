@@ -489,6 +489,8 @@ service in k8s - is a stable address for pods
 you need core dns
 *Important info about network in k8s*
 
+Lesson 107
+example on service
 
 
 
