@@ -480,6 +480,9 @@ kubectl describe pod/<pod name> - info about pod
 kubectl get pogs -w - like watch command
 kubrctl delete pod/<podname> - removed a pod
 
+Lesson 105
+Intro
+
 
 
 
