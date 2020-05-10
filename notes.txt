@@ -483,6 +483,12 @@ kubrctl delete pod/<podname> - removed a pod
 Lesson 105
 Intro
 
+Lesson 106
+kubectl expose - to expose ports
+service in k8s - is a stable address for pods
+you need core dns
+*Important info about network in k8s*
+
 
 
 
