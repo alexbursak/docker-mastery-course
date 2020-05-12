@@ -508,6 +508,8 @@ Lesson 112
 kubectl run - to creeate a pod
 kubectl create/deploy - to create a deployment
 
+Lesson 113
+about imperative vs declarative processes (cli vs yml file)
 
 
 
