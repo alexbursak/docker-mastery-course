@@ -504,6 +504,10 @@ intro
 Lesson 111
 --dry-run -o yml - to generate a template
 
+Lesson 112
+kubectl run - to creeate a pod
+kubectl create/deploy - to create a deployment
+
 
 
 
