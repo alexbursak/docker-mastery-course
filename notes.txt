@@ -501,6 +501,10 @@ about full hostnames of a service
 Lesson 110
 intro
 
+Lesson 111
+--dry-run -o yml - to generate a template
+
+
 
 
 
