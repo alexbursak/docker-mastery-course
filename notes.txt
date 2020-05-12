@@ -495,6 +495,8 @@ example on service
 Lesson 108
 --port to expose a port inside k8s (local machine port will be random)
 
+Lesson 109
+about full hostnames of a service
 
 
 
