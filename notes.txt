@@ -511,6 +511,8 @@ kubectl create/deploy - to create a deployment
 Lesson 113
 about imperative vs declarative processes (cli vs yml file)
 
+Lesson 114
+again cli vs yml file (yml better in prod)
 
 
 
