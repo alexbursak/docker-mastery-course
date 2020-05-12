@@ -492,6 +492,10 @@ you need core dns
 Lesson 107
 example on service
 
+Lesson 108
+--port to expose a port inside k8s (local machine port will be random)
+
+
 
 
 
