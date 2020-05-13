@@ -546,6 +546,8 @@ kubectl diff -f <file>
 Lesson 121
 Labels intro
 
+Lesson 121
+CSI - container storage interface
 
 
 
