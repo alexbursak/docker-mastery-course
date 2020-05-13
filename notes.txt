@@ -531,6 +531,9 @@ Manifest has requirements
     metadata
     spec
 
+Lesson 118
+api-version
+api-resource
 
 
 
