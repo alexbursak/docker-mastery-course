@@ -539,6 +539,11 @@ Lesson 119
 kubectl explain <name> --recursive
 kubectl example <name>.spec
 
+Lesson 120
+--server-dry-run - similer to dry run but runs on a server rather than on a client
+kubectl diff -f <file>
+
+
 
 
 
