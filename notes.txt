@@ -535,6 +535,10 @@ Lesson 118
 api-version
 api-resource
 
+Lesson 119
+kubectl explain <name> --recursive
+kubectl example <name>.spec
+
 
 
 
