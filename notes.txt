@@ -514,7 +514,13 @@ about imperative vs declarative processes (cli vs yml file)
 Lesson 114
 again cli vs yml file (yml better in prod)
 
+Lesson 115
+Intro
 
+Lesson 116
+kubectl apply -f - to use yml instead of raw command line
+You can use firectory instead of a file
+You can use even a link (http://example.com/prod.yml)
 
 
 
