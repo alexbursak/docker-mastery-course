@@ -522,6 +522,15 @@ kubectl apply -f - to use yml instead of raw command line
 You can use firectory instead of a file
 You can use even a link (http://example.com/prod.yml)
 
+Lesson 117
+Manifest - full description of a resource
+Manifest has requirements
+4 root keys:
+    apiVersion
+    kind
+    metadata
+    spec
+
 
 
 
