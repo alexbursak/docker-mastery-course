@@ -549,7 +549,13 @@ Labels intro
 Lesson 121
 CSI - container storage interface
 
+Lesson 122
+Intro
 
+Lesson 123
+storage in k8s
+start simple
+might be better to use outside of a cluster
 
 
 
