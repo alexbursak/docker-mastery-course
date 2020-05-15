@@ -576,7 +576,11 @@ Namespase - virtual cluster/view
 Deviding real cluster into virtual cluster, kinda.
 
 Lesson 129
-ServiceMesh - vendor for microservises? 
+ServiceMesh - vendor for microservises?
+
+Lesson 130
+Intro
+
 
 
 
