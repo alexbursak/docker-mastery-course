@@ -568,6 +568,9 @@ Lesson 126
 Heml - check it out.
 compose on k8s - You can deploy stack to k8s instead of swarm
 
+Lesson 127
+K8s dashboard
+
 
 
 
