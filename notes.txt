@@ -585,6 +585,10 @@ Lesson 131
 Cernel namespases - a way to limit process view and access (linux)
 Cgroups - a way to limit process resources (linux)
 
+Lesson 132
+dont run random shit ob your docker, check it first at least. (obvious)
+
+
 
 
 
