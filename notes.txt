@@ -581,6 +581,10 @@ ServiceMesh - vendor for microservises?
 Lesson 130
 Intro
 
+Lesson 131
+Cernel namespases - a way to limit process view and access (linux)
+Cgroups - a way to limit process resources (linux)
+
 
 
 
