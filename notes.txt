@@ -561,6 +561,10 @@ Lesson 124
 Ingress
 try nginx or traefik
 
+Lesson 125
+CRD's and Operator pattern
+
+
 
 
 
