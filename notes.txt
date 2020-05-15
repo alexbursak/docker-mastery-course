@@ -564,6 +564,13 @@ try nginx or traefik
 Lesson 125
 CRD's and Operator pattern
 
+Lesson 126
+Heml - check it out.
+compose on k8s - You can deploy stack to k8s instead of swarm
+
+
+
+
 
 
 
