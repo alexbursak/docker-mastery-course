@@ -557,6 +557,9 @@ storage in k8s
 start simple
 might be better to use outside of a cluster
 
+Lesson 124
+Ingress
+try nginx or traefik
 
 
 
