@@ -626,6 +626,8 @@ Win specific vulnerabilities.
 Lesson 140
 Distroless images - C, go and etc - can build a single binary so dont need apt.
 
+Lesson 141
+secrets
 
 
 
