@@ -620,7 +620,8 @@ sysdig falco - monitors for any bad behavior
 Lesson 138
 docker root-less - kinds useless in prod i think
 
-
+Lesson 139
+Win specific vulnerabilities.
 
 
 
