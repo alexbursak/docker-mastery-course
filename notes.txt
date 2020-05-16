@@ -612,6 +612,8 @@ https://github.com/BretFisher/ama/issues/17
 12. Docker root-less
 
 
+Lesson 136
+Snyk - scans repo for vulnerabilities.
 
 
 
