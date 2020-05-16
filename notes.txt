@@ -623,6 +623,8 @@ docker root-less - kinds useless in prod i think
 Lesson 139
 Win specific vulnerabilities.
 
+Lesson 140
+Distroless images - C, go and etc - can build a single binary so dont need apt.
 
 
 
