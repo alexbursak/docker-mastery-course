@@ -595,6 +595,21 @@ Lesson 134
 Don't run apps as root inside a container.
 Create a user:group for your app.
 
+Lesson 135
+Enable user namespases - per host setting
+https://github.com/BretFisher/ama/issues/17
+1. Just use Docker - default settings
+2. Scan your hosts for proper Docker config
+3. Don't expose the Docker TCP Socket to the internet
+4. Don't run apps in containers as root
+5. App and OS dependency scanning
+6. Use slimmed down base images
+7. Use multi stage images to prevent dec and CI dependencies in prod
+8. Enable user namespases
+9. Runtime bad behavior monitoring
+10. Content trust (?)
+11. Later, check out AppArmor, SELinux., Seccomp and Linux capabilities
+12. Docker root-less
 
 
 
