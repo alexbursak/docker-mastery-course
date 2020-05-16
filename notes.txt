@@ -591,6 +591,11 @@ dont run random shit ob your docker, check it first at least. (obvious)
 Lesson 133
 Docker bench security - configuration checker for security and etc.
 
+Lesson 134
+Don't run apps as root inside a container.
+Create a user:group for your app.
+
+
 
 
 
