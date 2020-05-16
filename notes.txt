@@ -611,9 +611,11 @@ https://github.com/BretFisher/ama/issues/17
 11. Later, check out AppArmor, SELinux., Seccomp and Linux capabilities
 12. Docker root-less
 
-
 Lesson 136
 Snyk - scans repo for vulnerabilities.
+
+Lesson 137
+sysdig falco - monitors for any bad behavior
 
 
 
