@@ -617,6 +617,10 @@ Snyk - scans repo for vulnerabilities.
 Lesson 137
 sysdig falco - monitors for any bad behavior
 
+Lesson 138
+docker root-less - kinds useless in prod i think
+
+
 
 
 
